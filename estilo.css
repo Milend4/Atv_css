@@ -1,0 +1,40 @@
+header{
+    background-color: red;
+    
+}
+#menu{
+    padding: 15px;
+}
+#menu a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+#cadastro{
+    margin-top: 100px;
+    text-align: center; 
+}
+.campos{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}
+.campos label{
+    margin-bottom: 15px;
+}
+.campos input{
+    margin-bottom: 15px;
+}
+#enviar{
+    padding: 10px;
+    margin-left: 680px;
+    margin-top: 30px;
+    background-color: red;
+}
+#resetar{
+    margin-left: 20px;
+    padding: 10px;
+    background-color: red;
+
+}
